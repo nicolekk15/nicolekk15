@@ -1,8 +1,8 @@
 # Yuho! Here is nicole! 🐱✨
 ---
-#### 🏫：ECNU CS
+### 🏫：ECNU CS
 ### 👉：🎹🎥📓🎮📼💻
-## 📫：nicoleKgentlecrime@163.com
+### 📫：nicoleKgentlecrime@163.com
 
 <!--
 **nicolekk15/nicolekk15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
