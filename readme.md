@@ -6,7 +6,7 @@
 
 [![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolekk15&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nicole's Coding stats](https://wakatime.com/share/@590b780c-5f56-49e9-8aa5-c23c2ba45fea/9a65fe50-04c9-43ad-bd06-612e8343ab92.svg)]
+![Nicole's Coding stats](https://wakatime.com/share/@590b780c-5f56-49e9-8aa5-c23c2ba45fea/9a65fe50-04c9-43ad-bd06-612e8343ab92.svg)
 
 <!--
 **nicolekk15/nicolekk15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
