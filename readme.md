@@ -8,7 +8,7 @@
 
 <table><tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=nicolekk15&show_icons=true&theme=transparent" border="0" ></td>
-<td><img src="https://wakatime.com/share/@590b780c-5f56-49e9-8aa5-c23c2ba45fea/9a65fe50-04c9-43ad-bd06-612e8343ab92.svg"  border="0" width="content"></td>
+<td><img src="https://wakatime.com/share/@590b780c-5f56-49e9-8aa5-c23c2ba45fea/9a65fe50-04c9-43ad-bd06-612e8343ab92.svg"  border="0" width="auto"></td>
 </tr></table>
 
 <!--
